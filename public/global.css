@@ -35,6 +35,13 @@ body {
   opacity: 0.5;
 }
 
+.motivation {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 20px;
+  opacity: 0.5;
+}
+
 svg {
   width: 64px;
   height: 64px;
